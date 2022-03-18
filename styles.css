@@ -1,0 +1,29 @@
+img{
+    width: 250px;
+}
+#monkey{
+    display:flex;
+    justify-content: space-between;
+}
+#dog{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+    color:forestgreen ;
+
+}
+img{
+    border-color: forestgreen;
+    border-width: 4px;
+    border-style: solid;
+}
+#video{
+    display: flex;
+    justify-content: space-around;
+    border-color: forestgreen;
+    border-width: 4px;
+    border-style: dotted;
+}
